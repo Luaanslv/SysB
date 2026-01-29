@@ -1,1 +1,5 @@
-/SysB/nbproject/private/
+# Ignorar a pasta de build (Java/Rust/etc)
+target/
+
+# ignorar pois é o documento tecnico
+documentos/
