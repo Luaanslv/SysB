@@ -4,9 +4,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 
-public class SysBApp {
+public class SysBApplication {
     public static void main(String[] args) {
-        SpringApplication.run(SysBApp.class, args);
+        SpringApplication.run(SysBApplication.class, args);
        
     }
 
