@@ -1,7 +1,7 @@
 package com.github.luaanslv.sysb.service;
 
-import com.github.luaanslv.sysb.model.entitys.Usuario;
-import com.github.luaanslv.sysb.model.repository.UsuarioRepository;
+import com.github.luaanslv.sysb.model.entities.Usuario;
+import com.github.luaanslv.sysb.repository.UsuarioRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.Date;

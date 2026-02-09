@@ -1,4 +1,4 @@
-package com.github.luaanslv.sysb.model.entitys;
+package com.github.luaanslv.sysb.model.entities;
 
 
 import jakarta.persistence.*;

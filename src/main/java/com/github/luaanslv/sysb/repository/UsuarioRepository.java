@@ -1,6 +1,6 @@
-package com.github.luaanslv.sysb.model.repository;
+package com.github.luaanslv.sysb.repository;
 
-import com.github.luaanslv.sysb.model.entitys.Usuario;
+import com.github.luaanslv.sysb.model.entities.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 import java.util.Optional;
