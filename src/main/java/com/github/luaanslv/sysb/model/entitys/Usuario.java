@@ -34,11 +34,11 @@ public class Usuario {
     private String nome;
 
     @NotBlank(message = "Cpf é obrigatorio")
-    @Column(name = "cpf", nullable = false)
+    @Column(name = "cpf", unique = true ,nullable = false)
     private String cpf;
 
     @NotBlank(message = "Email é obrigatorio")
-    @Column(name = "email", nullable = false)
+    @Column(name = "email", unique = true ,nullable = false)
     private String email;
 
     @Column(name = "dtCadastro", nullable = false)
