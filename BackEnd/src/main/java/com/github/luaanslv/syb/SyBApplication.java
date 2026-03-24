@@ -1,12 +1,12 @@
-package com.github.luaanslv.sysb;
+package com.github.luaanslv.syb;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 
-public class SysBApplication {
+public class SyBApplication {
     public static void main(String[] args) {
-        SpringApplication.run(SysBApplication.class, args);
+        SpringApplication.run(SyBApplication.class, args);
        
     }
 

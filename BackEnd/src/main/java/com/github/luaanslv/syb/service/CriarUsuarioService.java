@@ -1,11 +1,11 @@
-package com.github.luaanslv.sysb.service;
+package com.github.luaanslv.syb.service;
 
 
-import com.github.luaanslv.sysb.dto.CadastroDto;
-import com.github.luaanslv.sysb.model.entitiy.Permissao;
-import com.github.luaanslv.sysb.model.entitiy.Usuario;
-import com.github.luaanslv.sysb.repository.PermissaoRepositorio;
-import com.github.luaanslv.sysb.repository.UsuarioRepository;
+import com.github.luaanslv.syb.dto.CadastroDto;
+import com.github.luaanslv.syb.model.entitiy.Permissao;
+import com.github.luaanslv.syb.model.entitiy.Usuario;
+import com.github.luaanslv.syb.repository.PermissaoRepositorio;
+import com.github.luaanslv.syb.repository.UsuarioRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;

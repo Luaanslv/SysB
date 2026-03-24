@@ -1,6 +1,6 @@
-package com.github.luaanslv.sysb.repository;
+package com.github.luaanslv.syb.repository;
 
-import com.github.luaanslv.sysb.model.entitiy.Permissao;
+import com.github.luaanslv.syb.model.entitiy.Permissao;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

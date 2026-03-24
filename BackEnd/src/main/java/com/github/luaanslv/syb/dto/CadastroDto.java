@@ -1,4 +1,4 @@
-package com.github.luaanslv.sysb.dto;
+package com.github.luaanslv.syb.dto;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
