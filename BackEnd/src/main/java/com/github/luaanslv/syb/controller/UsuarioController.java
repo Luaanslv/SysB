@@ -5,7 +5,6 @@ import com.github.luaanslv.syb.dto.CadastroDto;
 import com.github.luaanslv.syb.dto.LoginDto;
 import com.github.luaanslv.syb.service.CriarUsuarioService;
 import jakarta.validation.Valid;
-import org.springframework.http.HttpStatusCode;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
